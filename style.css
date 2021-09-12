@@ -93,11 +93,11 @@ nav button:hover {
 }
 
 .grid1 .one {
-  background-color: #ff4800;
+  background-color: #f2f9fa;
 }
 
 .grid1 .two {
-  background-color: #ff5400;
+  background-color: #e9ecef;
 }
 
 .grid1 {
@@ -105,15 +105,15 @@ nav button:hover {
 }
 
 .grid2 .three {
-  background-color: #ff6000;
+  background-color: #dee2e6;
 }
 
 .grid2 .four {
-  background-color: #ff6d00;
+  background-color: #ced4da;
 }
 
 .grid2 .five {
-  background-color: #ff7900;
+  background-color: #adb5bd;
 }
 
 .grid2 {
@@ -122,35 +122,35 @@ nav button:hover {
 }
 
 .grid3 .six {
-  background-color: #ff8500;
+  background-color: #adb7cd;
 }
 
 .grid3 .seven {
-  background-color: #ff9100;
+  background-color: #adb8bf;
 }
 
 .grid3 .eight {
-  background-color: #ff9e00;
+  background-color: #6c757d;
 }
 
 .grid3 .nine {
-  background-color: #ffaa00;
+  background-color: #6f767d;
 }
 
 .grid3 .ten {
-  background-color: #ffb600;
+  background-color: #495057;
 }
 
 .grid3 .eleven {
-  background-color: #ffc300;
+  background-color: #595057;
 }
 
 .grid3 .twelve {
-  background-color: #ffd000;
+  background-color: #343a40;
 }
 
 .grid3 .thirteen {
-  background-color: #ffdd00;
+  background-color: #373c49;
 }
 
 .grid3 {
@@ -161,7 +161,7 @@ nav button:hover {
 }
 
 .grid4 .fourteen {
-  background-color: #ffea00;
+  background-color: #212529;
   margin: 3% 0;
 }
 
@@ -177,20 +177,4 @@ footer {
 footer h4 {
   text-transform: capitalize;
   font-size: 1.2rem;
-}
-
-footer .texts p {
-  text-align: center;
-  text-transform: capitalize;
-}
-
-footer .links a {
-  display: block;
-  text-align: center;
-  text-decoration: none;
-  color: #777777;
-}
-
-footer .links a:hover {
-  color: var(--color-blue);
 }
